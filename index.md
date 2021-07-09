@@ -12,6 +12,7 @@
 [answers from blog questions]
 
 **Participant 2:**
+
 [answers from blog questions]
 
 **etc.**
