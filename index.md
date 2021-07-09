@@ -1,4 +1,4 @@
-## Welcome to STEM-Away's Bioinformatics App Project
+## Welcome to STEM-Away's Bioinformatics App Project!
 
 ### Project Description
 
@@ -7,10 +7,11 @@
 
 ### Blog
 
-**Participant Name**
+**Participant Name:**
+
 [answers from blog questions]
 
-**Participant 2**
+**Participant 2:**
 [answers from blog questions]
 
 **etc.**
