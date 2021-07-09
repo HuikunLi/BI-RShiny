@@ -11,6 +11,8 @@
 
 [answers from blog questions]
 
+[possibly will add image of participant]
+
 **Participant 2:**
 
 [answers from blog questions]
