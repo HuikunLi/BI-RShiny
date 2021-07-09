@@ -13,8 +13,8 @@
 
 [possibly will add image of participant]
 
-**Participant 2:**
+**Participant Name:**
 
 [answers from blog questions]
 
-**etc.**
+**Etc.**
