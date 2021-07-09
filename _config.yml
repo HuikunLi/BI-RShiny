@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+title: [BI RShiny App]
+description: [App for guiding researchers through bioinformatics]
+
