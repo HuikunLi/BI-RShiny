@@ -117,15 +117,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: https://huikunli.github.io/BI-RShiny/
+  url: /
 - title: Elements
   url: /elements/
 - title: Blog
-  url: https://huikunli.github.io/BI-RShiny/blog/
+  url: /blog/
 - title: Categories
-  url: https://huikunli.github.io/BI-RShiny/categories/
+  url: /categories/
 - title: Search
-  url: https://huikunli.github.io/BI-RShiny/search/
+  url: /search/
 
 
 navigation_footer:
