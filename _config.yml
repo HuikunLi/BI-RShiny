@@ -120,10 +120,8 @@ navigation_header:
   url: /
 - title: Our Team
   url: /ourTeam/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+- title: Project Log
+  url: /projectLog/
 - title: Search
   url: /search/
 
