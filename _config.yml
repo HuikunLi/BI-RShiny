@@ -126,7 +126,7 @@ navigation_header:
 - title: Elements
   url: /elements/
 - title: Blog
-  url: /blog/
+  url: https://huikunli.github.io/BI-RShiny/blog/
 - title: Categories
   url: /categories/
 - title: Search
