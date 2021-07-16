@@ -14,7 +14,8 @@ Insert excerpt explaining app/project.
 {% include button.html text="Our GitHub" icon="github" link="https://github.com/orgs/Bioinformatics-Pathway-STEM-Away/dashboard" color="#0366d6" %} {% include button.html text="App Documentation" link="" color="#f68140" %} {% include button.html text="STEM-Away"  link="https://stemaway.com/" color="#0d94e7" %} {% include button.html text="Our LinkedIn" link="https://www.linkedin.com/company/stemaway/" %}
 
 ## Team Structure
-Sub-Groups(Group D) Working-Flow
+Sub-Groups(Group D) Working-Flow":
+
 The task for sub-group 1 is to form the GitHub page and edit the project description. 
 
 The task for sub-group 2 is to design a GitHub blog. 
