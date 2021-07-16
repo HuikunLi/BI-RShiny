@@ -7,13 +7,11 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# 
+# Heading 1
 
-## 
+## Heading 2
 
-### Sub-Groups Working-Flow
-The task for sub-group 1 is to form the GitHub page and edit the project description. The task for sub-group 2 is to design a GitHub blog. Finally, the task for sub-group 3 is to make a documentation site. 
-If you have any questions, please reach out to our team. 
+### Heading 3
 
 #### Heading 4
 
