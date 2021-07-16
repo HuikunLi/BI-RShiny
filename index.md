@@ -16,7 +16,9 @@ Insert excerpt explaining app/project.
 ## Team Structure
 Sub-Groups(Group D) Working-Flow
 The task for sub-group 1 is to form the GitHub page and edit the project description. 
+
 The task for sub-group 2 is to design a GitHub blog. 
+
 The task for sub-group 3 is to make a documentation site. 
 
 If you have any questions, please reach out to our team. 
