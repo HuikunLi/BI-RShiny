@@ -13,7 +13,7 @@ Our goal for creating this educational app is to help experts and intellectuals 
 
 ## Team Structure
 
-Our Team is made up of five sub-groups:
+Our team consists of five sub-groups:
 
 Group A - In charge of developing code for the transcriptomics pipeline.
 
