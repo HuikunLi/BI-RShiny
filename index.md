@@ -9,18 +9,21 @@ excerpt: "Insert excerpt explaining app/project"
 
 Our goal for creating this educational app is to help experts and intellectuals easily access the transcriptomics information and data they need. On this web page, users can view the project details via the links on the front page.
 
-Insert excerpt explaining app/project.
-
 {% include button.html text="Our GitHub" icon="github" link="https://github.com/orgs/Bioinformatics-Pathway-STEM-Away/dashboard" color="#88B98F" %} {% include button.html text="App Documentation" link="" color="#EDF2E9" %} {% include button.html text="STEM-Away"  link="https://stemaway.com/" color="#628F69" %} {% include button.html text="Our LinkedIn" link="https://www.linkedin.com/company/stemaway/" color="#E1EAD9" %}
 
 ## Team Structure
-Sub-Groups(Group D) Working-Flow:
 
-The task for sub-group 1 is to form the GitHub page and edit the project description. 
+Our Team is made up of five sub-groups:
 
-The task for sub-group 2 is to design a GitHub blog. 
+Group A - In charge of developing code for the transcriptomics pipeline.
 
-The task for sub-group 3 is to make a documentation site. 
+Group B1 - In charge of taking the code from group A and implementing it in R Shiny.
 
-If you have any questions, please reach out to our team. 
+Group B2 - In charge of formatting/layout of the R Shiny App.
+
+Group C - In charge of GitHub management and code documentation.
+
+Group D - In charge of developing the GitHub page and documentation site. 
+
+If you have any questions, please reach out to our team.
 
