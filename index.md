@@ -11,7 +11,7 @@ Our goal for creating this educational app is to help experts and intellectuals 
 
 Insert excerpt explaining app/project.
 
-{% include button.html text="Our GitHub" icon="github" link="https://github.com/orgs/Bioinformatics-Pathway-STEM-Away/dashboard" color="#0366d6" %} {% include button.html text="App Documentation" link="" color="#f68140" %} {% include button.html text="STEM-Away"  link="https://stemaway.com/" color="#0d94e7" %} {% include button.html text="Our LinkedIn" link="https://www.linkedin.com/company/stemaway/" %}
+{% include button.html text="Our GitHub" icon="github" link="https://github.com/orgs/Bioinformatics-Pathway-STEM-Away/dashboard" color="#88B98F" %} {% include button.html text="App Documentation" link="" color="#EDF2E9" %} {% include button.html text="STEM-Away"  link="https://stemaway.com/" color="#628F69" %} {% include button.html text="Our LinkedIn" link="https://www.linkedin.com/company/stemaway/" color="#E1EAD9" %}
 
 ## Team Structure
 Sub-Groups(Group D) Working-Flow:
