@@ -9,7 +9,7 @@ excerpt: "Insert excerpt explaining app/project"
 
 Our goal for creating this educational app is to help experts and intellectuals easily access the transcriptomics information and data they need. On this web page, users can view the project details via the links on the front page.
 
-{% include button.html text="Our GitHub" icon="github" link="https://github.com/orgs/Bioinformatics-Pathway-STEM-Away/dashboard" color="#88B98F" %} {% include button.html text="App Documentation" link="" color="#628F69" %} {% include button.html text="STEM-Away"  link="https://stemaway.com/" color="#628F69" %} {% include button.html text="Our LinkedIn" link="https://www.linkedin.com/company/stemaway/" color="##88B98F" %}
+{% include button.html text="Our GitHub" icon="github" link="https://github.com/orgs/Bioinformatics-Pathway-STEM-Away/dashboard" color="#88B98F" %} {% include button.html text="App Documentation" link="" color="#628F69" %} {% include button.html text="STEM-Away"  link="https://stemaway.com/" color="#628F69" %} {% include button.html text="Our LinkedIn" link="https://www.linkedin.com/company/stemaway/" color="#88B98F" %}
 
 ## Team Structure
 
